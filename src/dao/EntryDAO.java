@@ -26,7 +26,7 @@ public class EntryDAO implements IEntryDAO {
 	}
 	
 	public void addEntry(Entry entry){
-		
+		em.persist(entry);
 	}
 
 }

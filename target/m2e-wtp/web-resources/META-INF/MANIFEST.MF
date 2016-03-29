@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: Mitko
-Build-Jdk: 1.8.0_73
+Build-Jdk: 1.7.0_95
+Built-By: mihail
 Created-By: Maven Integration for Eclipse
 
